@@ -56,6 +56,7 @@ button{
     color: #fff;
     font-weight: bold;
     font-family: cursive;
+    cursor: pointer;
 }
 button i{
     font-size: 30px;
