@@ -16,7 +16,8 @@ function non() {
     } else if(count == 6) {
         btn2.transform = 'translateX(300px)';
     } else if(count == 7) {
-        btn2.transform = 'translateX(500px)';
+        btn2.transform = 'translateX(600px)';
+        btn2.display = 'none';
     }
 }
 function mo() {
